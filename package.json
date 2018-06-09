@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer_gspreadlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfer/puppeteer_gspreadlib.git"
+  },
+  "author": "Federico Rota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitfer/puppeteer_gspreadlib/issues"
+  },
+  "homepage": "https://github.com/gitfer/puppeteer_gspreadlib#readme"
+}
